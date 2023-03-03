@@ -1,2 +1,3 @@
 # moda
-A module for an exercize on dependency management with modules
+
+Module used as part of an example to show how dependency management works
