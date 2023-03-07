@@ -12,6 +12,8 @@ We analyze 3 cases:
 
 The 3 cases are implemented in the main.go file. Two cases are commented out.
 
+![dependency tree](./depencency-tree.png)
+
 ## "moda" depends only on a package of "modb"
 
 If the "main" package of "moda" imports "pckmodb1" and calls the only function provided by this package, the go.mod has only 1 direct requirement: "modb". The package list (which can be obtained with the command go list all) contains only "pkgmodb1" (apart all packages of the standard library).
