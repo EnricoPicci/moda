@@ -1,2 +1,6 @@
 github.com/EnricoPicci/modb v1.4.0 h1:fRokJnGxM/k0iSLm1S0LG9ie3DtUDy8lRTdM0y/hNbs=
 github.com/EnricoPicci/modb v1.4.0/go.mod h1:xiFbzzZnsr2vEIRlzVwWqF5IYq+rUDX/+uE9/RDAQR4=
+github.com/EnricoPicci/modc-forked v1.0.0 h1:6ztoYeaI4dm9thS4yzreFoGP1aJ7fSz8+O2ni1XnATI=
+github.com/EnricoPicci/modc-forked v1.0.0/go.mod h1:2lDF/l99KUwSxGPtuAUgPlpTill2idoI1M3I5PQPPBU=
+github.com/EnricoPicci/modd v1.0.0 h1:b8Hi9WxPh2qHOxA7caG/VMF77+zuOc4UeTdJ8YWb8kQ=
+github.com/EnricoPicci/modd v1.0.0/go.mod h1:OSSmtp7MsEcXsIJ0Hm28VSx63Zo6Cwk3rwj+O5rs4gE=
